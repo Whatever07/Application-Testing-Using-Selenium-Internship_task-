@@ -210,7 +210,7 @@ public class Testing {
 	
 	
 	
-	@Test(priority=18,groups="Sparks Page (Global)")
+	@Test(priority=16,groups="Sparks Page (Global)")
 	public void NoOfLinkTest()
 	{
 		driver.get("https://thesparksfoundation.info/");

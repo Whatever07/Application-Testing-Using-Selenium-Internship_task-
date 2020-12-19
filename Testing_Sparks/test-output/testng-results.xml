@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="184247" started-at="2020-12-19T05:23:44 IST" finished-at="2020-12-19T05:26:48 IST">
+    <groups>
+      <group name="Policies and Code">
+        <method signature="Testing.PoliciesCorrectPageDisplayedTest()[pri:11, instance:automation.Testing@35d176f7]" name="PoliciesCorrectPageDisplayedTest" class="automation.Testing"/>
+        <method signature="Testing.PoliciesNoOfLinkTest()[pri:10, instance:automation.Testing@35d176f7]" name="PoliciesNoOfLinkTest" class="automation.Testing"/>
+      </group> <!-- Policies and Code -->
+      <group name="Vision &amp; Mission">
+        <method signature="Testing.ExecutiveTeamTextElementTest()[pri:5, instance:automation.Testing@35d176f7]" name="ExecutiveTeamTextElementTest" class="automation.Testing"/>
+        <method signature="Testing.VisionMissionNoOfLinksTest()[pri:4, instance:automation.Testing@35d176f7]" name="VisionMissionNoOfLinksTest" class="automation.Testing"/>
+      </group> <!-- Vision & Mission -->
+      <group name="Sparks Page (Global)">
+        <method signature="Testing.CorrectPageDisplayedTest()[pri:15, instance:automation.Testing@35d176f7]" name="CorrectPageDisplayedTest" class="automation.Testing"/>
+        <method signature="Testing.NoOfLinkTest()[pri:18, instance:automation.Testing@35d176f7]" name="NoOfLinkTest" class="automation.Testing"/>
+      </group> <!-- Sparks Page (Global) -->
+      <group name="Contact Us">
+        <method signature="Testing.ContactUsNoOfLinksTest()[pri:13, instance:automation.Testing@35d176f7]" name="ContactUsNoOfLinksTest" class="automation.Testing"/>
+      </group> <!-- Contact Us -->
+      <group name="Home Page">
+        <method signature="Testing.ContactUsLinkTest()[pri:12, instance:automation.Testing@35d176f7]" name="ContactUsLinkTest" class="automation.Testing"/>
+        <method signature="Testing.JoinUsLinkTest()[pri:6, instance:automation.Testing@35d176f7]" name="JoinUsLinkTest" class="automation.Testing"/>
+        <method signature="Testing.LogoTest()[pri:2, instance:automation.Testing@35d176f7]" name="LogoTest" class="automation.Testing"/>
+        <method signature="Testing.SparksPageGlobalLinkTest()[pri:14, instance:automation.Testing@35d176f7]" name="SparksPageGlobalLinkTest" class="automation.Testing"/>
+        <method signature="Testing.TestPageTitle()[pri:1, instance:automation.Testing@35d176f7]" name="TestPageTitle" class="automation.Testing"/>
+        <method signature="Testing.VisionMissionLinkTest()[pri:3, instance:automation.Testing@35d176f7]" name="VisionMissionLinkTest" class="automation.Testing"/>
+        <method signature="Testing.VisitNowLinkTest()[pri:9, instance:automation.Testing@35d176f7]" name="VisitNowLinkTest" class="automation.Testing"/>
+      </group> <!-- Home Page -->
+      <group name="Join Us Page">
+        <method signature="Testing.InternshipPositionTextElementTest()[pri:8, instance:automation.Testing@35d176f7]" name="InternshipPositionTextElementTest" class="automation.Testing"/>
+        <method signature="Testing.JoinUsPageNoOfLinkTest()[pri:7, instance:automation.Testing@35d176f7]" name="JoinUsPageNoOfLinkTest" class="automation.Testing"/>
+      </group> <!-- Join Us Page -->
+    </groups>
+    <test name="Default test" duration-ms="184247" started-at="2020-12-19T05:23:44 IST" finished-at="2020-12-19T05:26:48 IST">
+      <class name="automation.Testing">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="6809" started-at="2020-12-19T05:23:44 IST" finished-at="2020-12-19T05:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TestPageTitle()[pri:1, instance:automation.Testing@35d176f7]" name="TestPageTitle" duration-ms="6808" started-at="2020-12-19T05:23:51 IST" finished-at="2020-12-19T05:23:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPageTitle -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="1126" started-at="2020-12-19T05:23:57 IST" finished-at="2020-12-19T05:23:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5321" started-at="2020-12-19T05:23:59 IST" finished-at="2020-12-19T05:24:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogoTest()[pri:2, instance:automation.Testing@35d176f7]" name="LogoTest" duration-ms="5392" started-at="2020-12-19T05:24:04 IST" finished-at="2020-12-19T05:24:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="684" started-at="2020-12-19T05:24:09 IST" finished-at="2020-12-19T05:24:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5708" started-at="2020-12-19T05:24:10 IST" finished-at="2020-12-19T05:24:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VisionMissionLinkTest()[pri:3, instance:automation.Testing@35d176f7]" name="VisionMissionLinkTest" duration-ms="7116" started-at="2020-12-19T05:24:16 IST" finished-at="2020-12-19T05:24:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisionMissionLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="816" started-at="2020-12-19T05:24:23 IST" finished-at="2020-12-19T05:24:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="6404" started-at="2020-12-19T05:24:24 IST" finished-at="2020-12-19T05:24:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VisionMissionNoOfLinksTest()[pri:4, instance:automation.Testing@35d176f7]" name="VisionMissionNoOfLinksTest" duration-ms="4686" started-at="2020-12-19T05:24:30 IST" finished-at="2020-12-19T05:24:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisionMissionNoOfLinksTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="630" started-at="2020-12-19T05:24:35 IST" finished-at="2020-12-19T05:24:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5449" started-at="2020-12-19T05:24:35 IST" finished-at="2020-12-19T05:24:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ExecutiveTeamTextElementTest()[pri:5, instance:automation.Testing@35d176f7]" name="ExecutiveTeamTextElementTest" duration-ms="4470" started-at="2020-12-19T05:24:41 IST" finished-at="2020-12-19T05:24:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExecutiveTeamTextElementTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="626" started-at="2020-12-19T05:24:45 IST" finished-at="2020-12-19T05:24:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5743" started-at="2020-12-19T05:24:46 IST" finished-at="2020-12-19T05:24:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="JoinUsLinkTest()[pri:6, instance:automation.Testing@35d176f7]" name="JoinUsLinkTest" duration-ms="6957" started-at="2020-12-19T05:24:52 IST" finished-at="2020-12-19T05:24:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JoinUsLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="695" started-at="2020-12-19T05:24:59 IST" finished-at="2020-12-19T05:24:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5525" started-at="2020-12-19T05:24:59 IST" finished-at="2020-12-19T05:25:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="JoinUsPageNoOfLinkTest()[pri:7, instance:automation.Testing@35d176f7]" name="JoinUsPageNoOfLinkTest" duration-ms="4413" started-at="2020-12-19T05:25:05 IST" finished-at="2020-12-19T05:25:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JoinUsPageNoOfLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="1785" started-at="2020-12-19T05:25:09 IST" finished-at="2020-12-19T05:25:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5272" started-at="2020-12-19T05:25:11 IST" finished-at="2020-12-19T05:25:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="InternshipPositionTextElementTest()[pri:8, instance:automation.Testing@35d176f7]" name="InternshipPositionTextElementTest" duration-ms="3501" started-at="2020-12-19T05:25:16 IST" finished-at="2020-12-19T05:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InternshipPositionTextElementTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="600" started-at="2020-12-19T05:25:20 IST" finished-at="2020-12-19T05:25:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5192" started-at="2020-12-19T05:25:20 IST" finished-at="2020-12-19T05:25:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="VisitNowLinkTest()[pri:9, instance:automation.Testing@35d176f7]" name="VisitNowLinkTest" duration-ms="4867" started-at="2020-12-19T05:25:26 IST" finished-at="2020-12-19T05:25:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VisitNowLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="618" started-at="2020-12-19T05:25:30 IST" finished-at="2020-12-19T05:25:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5132" started-at="2020-12-19T05:25:31 IST" finished-at="2020-12-19T05:25:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PoliciesNoOfLinkTest()[pri:10, instance:automation.Testing@35d176f7]" name="PoliciesNoOfLinkTest" duration-ms="3565" started-at="2020-12-19T05:25:36 IST" finished-at="2020-12-19T05:25:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PoliciesNoOfLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="594" started-at="2020-12-19T05:25:40 IST" finished-at="2020-12-19T05:25:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5134" started-at="2020-12-19T05:25:40 IST" finished-at="2020-12-19T05:25:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PoliciesCorrectPageDisplayedTest()[pri:11, instance:automation.Testing@35d176f7]" name="PoliciesCorrectPageDisplayedTest" duration-ms="3413" started-at="2020-12-19T05:25:45 IST" finished-at="2020-12-19T05:25:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PoliciesCorrectPageDisplayedTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="595" started-at="2020-12-19T05:25:49 IST" finished-at="2020-12-19T05:25:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5129" started-at="2020-12-19T05:25:49 IST" finished-at="2020-12-19T05:25:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ContactUsLinkTest()[pri:12, instance:automation.Testing@35d176f7]" name="ContactUsLinkTest" duration-ms="6187" started-at="2020-12-19T05:25:55 IST" finished-at="2020-12-19T05:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="624" started-at="2020-12-19T05:26:01 IST" finished-at="2020-12-19T05:26:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5142" started-at="2020-12-19T05:26:01 IST" finished-at="2020-12-19T05:26:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ContactUsNoOfLinksTest()[pri:13, instance:automation.Testing@35d176f7]" name="ContactUsNoOfLinksTest" duration-ms="3463" started-at="2020-12-19T05:26:07 IST" finished-at="2020-12-19T05:26:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUsNoOfLinksTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="597" started-at="2020-12-19T05:26:10 IST" finished-at="2020-12-19T05:26:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5123" started-at="2020-12-19T05:26:11 IST" finished-at="2020-12-19T05:26:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SparksPageGlobalLinkTest()[pri:14, instance:automation.Testing@35d176f7]" name="SparksPageGlobalLinkTest" duration-ms="4809" started-at="2020-12-19T05:26:16 IST" finished-at="2020-12-19T05:26:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SparksPageGlobalLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="594" started-at="2020-12-19T05:26:21 IST" finished-at="2020-12-19T05:26:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5341" started-at="2020-12-19T05:26:21 IST" finished-at="2020-12-19T05:26:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CorrectPageDisplayedTest()[pri:15, instance:automation.Testing@35d176f7]" name="CorrectPageDisplayedTest" duration-ms="7446" started-at="2020-12-19T05:26:26 IST" finished-at="2020-12-19T05:26:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CorrectPageDisplayedTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="1089" started-at="2020-12-19T05:26:34 IST" finished-at="2020-12-19T05:26:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.Testing@35d176f7]" name="setUp" is-config="true" duration-ms="5292" started-at="2020-12-19T05:26:35 IST" finished-at="2020-12-19T05:26:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="NoOfLinkTest()[pri:18, instance:automation.Testing@35d176f7]" name="NoOfLinkTest" duration-ms="7095" started-at="2020-12-19T05:26:40 IST" finished-at="2020-12-19T05:26:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NoOfLinkTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:automation.Testing@35d176f7]" name="close" is-config="true" duration-ms="594" started-at="2020-12-19T05:26:47 IST" finished-at="2020-12-19T05:26:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- automation.Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
